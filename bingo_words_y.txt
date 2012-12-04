@@ -6,13 +6,13 @@ q-value
 tomato
 ültimately
 variance
-"explained\nvariance"
+explained\nvariance
 PCA
 chimp
 Maya
 arrays
-"stem cells"
-"cells not\n growing"
+stem cells
+"cells not\ngrowing"
 iPCSs
 Illumina
 reads
@@ -25,30 +25,47 @@ volleyball
 Nature
 Science
 stringent
-"postdoc\n candidate"
+"new postdoc\ncandidate"
 robust
-"Amanda falls\n asleep"
+"Amanda\nfalls\nasleep"
 allergies
 "out of town"
 interspecies
 DNaaaaz
-amynaaaz
+MNaaaaz
 distribution
 enriched
 pathway
 network
 "Venn diagram"
 heatmap
-"red-green \ncolor scheme"
+"red-green\ncolor scheme"
 blue
 poop
-"stool sample"
+stool sample
 Hutterites
 QTL
 eQTL
 pQTL
-"just start \nwriting"
+"just start\nwriting"
 prior
 database
 indices
-multiplex
+mültiplex
+MEF
+E8
+clone
+cutting
+passage
+banking
+barcode
+deadline
+grant\napplication
+sequencer\nqueue
+upstairs
+EBs
+tissues
+freezer
+RNA
+DNA
+RIN score
