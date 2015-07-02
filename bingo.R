@@ -1,9 +1,12 @@
 require(gplots)
 
+# Change file name at will: 
 word.list = as.matrix(read.table("bingo_words_y.txt"))
 word.list <- gsub("\\n", "\n", word.list, fixed=T)
 nw = dim(word.list)[1]
 numbers.m <- matrix (1,nrow=5, ncol=5)
+
+# To control the number of cards printed, change the number in the loop. 
 for (i in 1:5){
     words.ind = sample(1:nw,24)
     words = c(word.list[words.ind[1:12],],"FDR",word.list[words.ind[13:24],])
