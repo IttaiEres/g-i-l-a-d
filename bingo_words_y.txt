@@ -1,71 +1,80 @@
-Alinea
 cutoff
-Next
 p-value
 q-value
 tomato
 ültimately
-variance
 explained\nvariance
 PCA
 chimp
 Maya
-arrays
-stem cells
 "cells not\ngrowing"
-iPCSs
+iPSCs
 Illumina
 reads
 samples
 library
 frogs
 cats
-Russ/\ndisappointment
-volleyball
+jellyfish
 Nature
 Science
 stringent
-"new postdoc\ncandidate"
 robust
-"Amanda\nfalls\nasleep"
-allergies
-"out of town"
 interspecies
-DNaaaaz
-MNaaaaz
 distribution
 enriched
 pathway
 network
-"Venn diagram"
 heatmap
-"red-green\ncolor scheme"
-blue
-poop
-stool sample
 Hutterites
 QTL
 eQTL
 pQTL
+meQTL
+dsQTL
+"trans eQTL"
+"splicing QTL"
+"trans effects"
 "just start\nwriting"
 prior
+posterior
 database
 indices
 mültiplex
-MEF
 E8
 clone
-cutting
 passage
 banking
 barcode
 deadline
 grant\napplication
 sequencer\nqueue
-upstairs
-EBs
+"sequencer\nis down"
+batch
+"batch effect"
 tissues
 freezer
 RNA
 DNA
-RIN score
+RIN\nscore
+long\nsilence
+database
+protein
+"\"Where's\nBryan?\""
+"cüte (said\nabout a slide\nanimal)"
+ribosomal\nprofiling
+HapGE
+ideal
+"Mike Snyder"
+aquarium
+"fresh\nsea water"
+"salt water"
+"effect size"
+background
+"\"misses\nthe point\""
+"study design"
+twitter
+ENCODE
+"sample size\n of 1"
+"aggressively\nquestions\nassumptions of\none of Vinny's\nprojects"
+F1000

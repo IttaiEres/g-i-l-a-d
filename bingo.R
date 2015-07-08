@@ -1,10 +1,12 @@
+setwd("~/bingo")
+
 require(gplots)
 
 word.list = as.matrix(read.table("bingo_words_y.txt"))
 word.list <- gsub("\\n", "\n", word.list, fixed=T)
 nw = dim(word.list)[1]
 numbers.m <- matrix (1,nrow=5, ncol=5)
-for (i in 1:5){
+for (i in 1:9){
     words.ind = sample(1:nw,24)
     words = c(word.list[words.ind[1:12],],"FDR",word.list[words.ind[13:24],])
     words.m = matrix(words,nrow=5,ncol=5)
