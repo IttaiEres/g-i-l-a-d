@@ -1,7 +1,4 @@
-# README #
-
-
-### Gilad lab meeting bingo! ###
+# Gilad lab meeting bingo! #
 
 * Set up and use
 * Game rules!
