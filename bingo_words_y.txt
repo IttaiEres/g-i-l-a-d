@@ -49,7 +49,6 @@ barcode
 deadline
 grant\napplication
 sequencer\nqueue
-"sequencer\nis down"
 batch
 "batch effect"
 tissues
@@ -74,7 +73,16 @@ background
 "\"misses\nthe point\""
 "study design"
 twitter
+tweet
+Trump
+Lab School
+genetic medicine
+pokemon
 ENCODE
 "sample size\n of 1"
 "aggressively\nquestions\nassumptions of\none of Vinny's\nprojects"
 F1000
+WASP
+paper
+statistics
+question
