@@ -5,8 +5,10 @@ tomato
 ültimately
 explained\nvariance
 PCA
+normalize
 chimp
 Maya
+Mina
 "cells not\ngrowing"
 iPSCs
 Illumina
@@ -75,8 +77,8 @@ background
 twitter
 tweet
 Trump
-Lab School
-genetic medicine
+"Lab School"
+"genetic\nmedicine"
 pokemon
 ENCODE
 "sample size\n of 1"
@@ -86,3 +88,7 @@ WASP
 paper
 statistics
 question
+Hi-C
+ATAC-seq
+"single cell"
+C1
