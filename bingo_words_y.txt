@@ -31,16 +31,10 @@ heatmap
 Hutterites
 QTL
 eQTL
-pQTL
 meQTL
-dsQTL
-"trans eQTL"
-"splicing QTL"
-"trans effects"
 "just start\nwriting"
 prior
 posterior
-database
 indices
 mültiplex
 E8
@@ -63,12 +57,10 @@ database
 protein
 "\"Where's\nBryan?\""
 "cüte (said\nabout a slide\nanimal)"
-ribosomal\nprofiling
 HapGE
 ideal
 "Mike Snyder"
 aquarium
-"fresh\nsea water"
 "salt water"
 "effect size"
 background
@@ -92,3 +84,7 @@ Hi-C
 ATAC-seq
 "single cell"
 C1
+genome
+model
+biased
+associated
